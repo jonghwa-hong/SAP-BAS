@@ -8,3 +8,4 @@
 - [유트브 및 다큐먼트 정리](https://www.notion.so/57c3af73116a4f008f1764735f9385db?v=03d2b442daac4e79935ff59bdaa83839)
 - OData
   - [OData란?](https://www.notion.so/ODta-d7570429a9fb4853a74d5e9752397e5c)
+  - OData 기초활용
